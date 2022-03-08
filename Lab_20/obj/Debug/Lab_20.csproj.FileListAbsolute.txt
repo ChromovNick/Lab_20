@@ -1,0 +1,7 @@
+C:\Users\Никита\Desktop\C#\Lab_20\Lab_20\Lab_20\bin\Debug\Lab_20.exe.config
+C:\Users\Никита\Desktop\C#\Lab_20\Lab_20\Lab_20\bin\Debug\Lab_20.exe
+C:\Users\Никита\Desktop\C#\Lab_20\Lab_20\Lab_20\bin\Debug\Lab_20.pdb
+C:\Users\Никита\Desktop\C#\Lab_20\Lab_20\Lab_20\obj\Debug\Lab_20.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\C#\Lab_20\Lab_20\Lab_20\obj\Debug\Lab_20.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\C#\Lab_20\Lab_20\Lab_20\obj\Debug\Lab_20.exe
+C:\Users\Никита\Desktop\C#\Lab_20\Lab_20\Lab_20\obj\Debug\Lab_20.pdb
